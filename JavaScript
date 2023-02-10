@@ -1,0 +1,7 @@
+document.getElementById("submit-button").addEventListener("click", function(event) {
+
+  event.preventDefault();
+
+  window.location.href = "https://www.tubebuddy.com/youtubectr44";
+
+});
